@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bolt.idavirukomp.ee/sitemap.xml
